@@ -1,0 +1,19 @@
+{
+    "target": {
+        "user1": [
+            "Once Upon a Time in America",
+            "The Lord of the Rings: The Two Towers",
+            "The Truman Show"
+        ],
+        "user103": [
+            "12 Angry Men",
+            "Requiem for a Dream",
+            "The Lion King"
+        ],
+        "user105": [
+            "The Lion King",
+            "The Shawshank Redemption",
+            "Alien"
+        ]
+    }
+}
